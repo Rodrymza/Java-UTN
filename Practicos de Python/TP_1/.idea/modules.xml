@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio01/Ejercicio01.iml" filepath="$PROJECT_DIR$/Ejercicio01/Ejercicio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio02/Ejercicio02.iml" filepath="$PROJECT_DIR$/Ejercicio02/Ejercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio03/Ejercicio03.iml" filepath="$PROJECT_DIR$/Ejercicio03/Ejercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio04/Ejercicio04.iml" filepath="$PROJECT_DIR$/Ejercicio04/Ejercicio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio04/Ejercicio05/Ejercicio05.iml" filepath="$PROJECT_DIR$/Ejercicio04/Ejercicio05/Ejercicio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio04/Ejercicio06/Ejercicio06.iml" filepath="$PROJECT_DIR$/Ejercicio04/Ejercicio06/Ejercicio06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio07/Ejercicio07.iml" filepath="$PROJECT_DIR$/Ejercicio07/Ejercicio07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio08/Ejercicio08.iml" filepath="$PROJECT_DIR$/Ejercicio08/Ejercicio08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio08/Ejercicio09/Ejercicio09.iml" filepath="$PROJECT_DIR$/Ejercicio08/Ejercicio09/Ejercicio09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio10/Ejercicio10.iml" filepath="$PROJECT_DIR$/Ejercicio10/Ejercicio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio11/Ejercicio11.iml" filepath="$PROJECT_DIR$/Ejercicio11/Ejercicio11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio12/Ejercicio12.iml" filepath="$PROJECT_DIR$/Ejercicio12/Ejercicio12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio13/Ejercicio13.iml" filepath="$PROJECT_DIR$/Ejercicio13/Ejercicio13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio14/Ejercicio14.iml" filepath="$PROJECT_DIR$/Ejercicio14/Ejercicio14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP_1.iml" filepath="$PROJECT_DIR$/.idea/TP_1.iml" />
+    </modules>
+  </component>
+</project>
