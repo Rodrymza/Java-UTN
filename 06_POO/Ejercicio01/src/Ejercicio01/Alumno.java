@@ -7,6 +7,7 @@ public class Alumno {
     private String nombre;
     private long legajo;
     private ArrayList<Nota> lista_notas = new ArrayList<>();
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
@@ -37,12 +38,17 @@ public class Alumno {
         }
     }
     public void anadirNota_manual() {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Ingrese nombre de la catedra");
-        String nombre = input.nextLine();
-        System.out.println("Ingrese nota");
-        int nota = Integer.parseInt(input.nextLine());
-        Nota nota_anadir = new Nota(nombre, nota);
-        anadirNota(nota_anadir);
+        while (true) {
+            Scanner input = new Scanner(System.in);
+            System.out.println("Ingrese nombre de la catedra");
+            String nombre = input.nextLine();
+            System.out.println("Ingrese nota");
+            int nota = Integer.parseInt(input.nextLine());
+            Nota nota_anadir = new Nota(nombre, nota);
+            anadirNota(nota_anadir);
+            if (! Main.preguntar("Desea añadir mas notas?")) {
+                break;
+            }
+        }
     }
 }
