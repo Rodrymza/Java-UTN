@@ -22,7 +22,7 @@ public class MenuRestaurant {
                     System.out.println("Opcion incorrecta");
                     continue;
             }
-        if (respuesta.equals("4")) {
+        if (respuesta.equals("3")) {
             break;
         }
         }

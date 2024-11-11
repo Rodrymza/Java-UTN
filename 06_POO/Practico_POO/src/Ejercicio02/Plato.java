@@ -82,6 +82,7 @@ public class Plato {
         for (Ingrediente ingrediente_actual : lista_ingredientes) {
             ingrediente_actual.mostrarIngrediente();
         }
+        System.out.println("---------------");
     }
 }
 
