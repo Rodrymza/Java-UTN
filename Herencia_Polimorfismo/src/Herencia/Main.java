@@ -8,5 +8,6 @@ public class Main {
     Profesor profe1 = new Profesor("Osvaldo", 45, "Licenciado en Matematica");
     profe1.estudiar();
     profe1.mostrarDatos();
+
     }
 }
