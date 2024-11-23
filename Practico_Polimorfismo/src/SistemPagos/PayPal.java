@@ -10,12 +10,13 @@ public class PayPal extends MetodoPago implements Cancelable{
     }
     @Override
     public void realizarPago() {
-        System.out.println("Pato via PayPal realizado correctamente");
+        System.out.println("Pago via PayPal realizado correctamente");
         System.out.println("Comprobante enviado a " + correoElectronico);
     }
 
     @Override
     public void cancelarPago() {
+        titular = "Pago cancelado";
         System.out.println("Pago PayPal anulado, enviado comprobante a " + correoElectronico);
     }
 }

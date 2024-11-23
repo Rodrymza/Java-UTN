@@ -26,6 +26,7 @@ public class TarjetaCredito extends MetodoPago implements Cancelable{
     @Override
     public void cancelarPago() {
         Cancelable.super.cancelarPago();
+        titular = "Pago cancelado";
         System.out.println("Pago con tarjeta de credito anulado");
     }
 }
